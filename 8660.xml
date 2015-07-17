@@ -4,8 +4,8 @@
   <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-12.1" />
   <project name="EdinaDevs/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-12.1" />
-  <project name="BlazeDevs/android_kernel_samsung_msm8660-common" path="kernel/samsung/msm8660-common" remote="github" revision="cm-12.1" />
-  <project name="CandyDevices/device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="c5.1" />
+  <project name="CandyDevices/kernel_samsung_msm8660-common" path="kernel/samsung/msm8660-common" remote="github" revision="Paul" />
+  <project name="CandyDevices/device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="Paul" />
   <project name="CandyDevices/device_samsung_celox-common" path="device/samsung/celox-common" remote="github" revision="c5.1" />
   <project name="CandyDevices/device_samsung_quincy-common" path="device/samsung/quincy-common" remote="github" revision="c5.1" />
   <!--Celox Devices: Hercules, Skyrocket, T769, and Exhilarate-->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest> 
+   <!--COMMON-->
+    <project name="CandyDevices/kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="github" revision="c5.1" />
+    <project name="CandyDevices/device_samsung_omap4-common" path="device/samsung/omap4-common" remote="github" revision="c5.1" />
+    <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-12.1" />
+   <!-- P31XX-->
+    <project name="CandyDevices/device_samsung_p3100" path="device/samsung/p3100" remote="github" revision="c5.1" />
+    <project name="CandyDevices/device_samsung_p3110" path="device/samsung/p3110" remote="github" revision="c5.1" />
+   <!-- P31XX-->
+    <project name="CandyDevices/device_samsung_p5100" path="device/samsung/p5100" remote="github" revision="c5.1" />
+    <project name="CandyDevices/device_samsung_p5110" path="device/samsung/p5110" remote="github" revision="c5.1" />
+</manifest>

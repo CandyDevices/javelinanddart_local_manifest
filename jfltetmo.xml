@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <manifest>
+  <project name="device_samsung_jfltetmo" path="device/samsung/jfltetmo" remote="cd" revision="c5.1" />
+  <project name="device_samsung_jf-common" path="device/samsung/jf-common" remote="cd" revision="c5.1" />
+  <project name="kernel_samsung_jf" path="kernel/samsung/jf" remote="cd" revision="c5.1" />
+ </manifest>
